@@ -1,3 +1,4 @@
 # TemplateMethodPattern
 
-![Schema pattern](https://raw.githubusercontent.com/TheNormanCoder/TemplateMethodPattern/main/image.png)
+![Schema pattern](https://github.com/TheNormanCoder/TemplateMethodPattern/raw/main/image.png)
+
